@@ -1,0 +1,46 @@
+docker --help
+docker version
+docker info
+docker ps
+docker images
+docker search
+
+docker pull
+docker run
+docker start
+docker exec
+docker stats
+docker stop
+
+docker image --help
+docker image pull
+docker image rm
+docker image prune
+docker image build 
+docker image tag
+
+container create
+container ls
+container start
+container stop
+container prune
+container logs
+container top
+
+
+# Dockerfile
+
+FROM
+WORKDIR
+COPY
+RUN
+CMD
+ENV
+
+
+
+
+
+
+
+
